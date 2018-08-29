@@ -1,4 +1,4 @@
-# ML Assigns Repo
+# ML Assigns
 
 ![python](res/machine-learning-1.png)
 
