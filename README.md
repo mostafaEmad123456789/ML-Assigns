@@ -1,6 +1,6 @@
 # ML Assigns Repo
 
-![python](res/ML.jpg)
+![python](res/machine-learning-1.png)
 
 ### [Titanic](Titanic)
 * Titanic problem analysis.
