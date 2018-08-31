@@ -19,3 +19,5 @@
 
 ### [Breast Cancer Detection](Breast%20Cancer%20Detection)
 * Analysis and Prediction with diffrent models to the Breast Cancer Detection.
+### [Wine Quality](Wine%20Quality)
+* Prediction of Wine Quality.
