@@ -16,3 +16,6 @@
 
 ### [Mushroom Classification](Mushroom%20Classification)
 * Prediction of the eatability of Mushroom.
+
+### [Breast Cancer Detection](Breast%20Cancer%20Detection)
+* Analysis and Prediction with diffrent models to the Breast Cancer Detection.
