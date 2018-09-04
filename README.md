@@ -19,5 +19,12 @@
 
 ### [Breast Cancer Detection](Breast%20Cancer%20Detection)
 * Analysis and Prediction with diffrent models to the Breast Cancer Detection.
+
 ### [Wine Quality](Wine%20Quality)
 * Prediction of Wine Quality.
+
+### [Adult Income](Adult%20Income)
+* Prediction of Adult Income.
+
+### [Clustering Algorithms](Clustering%20Algorithms)
+* Diffrent Clustring Algorithms.
