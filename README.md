@@ -26,5 +26,5 @@
 ### [Adult Income](Adult%20Income)
 * Prediction of Adult Income.
 
-### [Clustering Algorithms](Clustering%20Algorithms)
+### [Clustring Algorithms](Clustring%20Algorithms)
 * Diffrent Clustring Algorithms.
