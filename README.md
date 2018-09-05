@@ -28,3 +28,9 @@
 
 ### [Clustring Algorithms](Clustring%20Algorithms)
 * Diffrent Clustring Algorithms.
+
+### [Pipeline](Pipeline)
+* Using Pipelines.
+
+### [Automation](Automation)
+* Give the notebook the dataset and it will find the best classifier for it and save the model in a Pickle file.
