@@ -34,3 +34,6 @@
 
 ### [Automation](Automation)
 * Give the notebook the dataset and it will find the best classifier for it and save the model in a Pickle file.
+
+### [EURUSD Prediction](EURUSD%20Prediction)
+* Give it a date and it wil predict the USD price of the next day. it is up on heroku [try](https://assign1-usd-time.herokuapp.com/)
