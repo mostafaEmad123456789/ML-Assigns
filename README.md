@@ -42,8 +42,8 @@
 * Give it a phrase and it will return if it is a positive or negative phrase. it is up on heroku [try](https://assign-sentiment-api.herokuapp.com/).
 ---
 ### [Gender API](Gender%20API)
-* Give it a name and it will return if it is a male or female. it is up on heroku [try](https://assign-tweet-analysis.herokuapp.com/).
+* Give it a name and it will return if it is a male or female. it is up on heroku [try](https://assign-gender-api.herokuapp.com/).
 ---
 ### [Twitter Dashboard](Twitter%20Dashboard)
-* Give it a word and it will return if the people talk aabout it positively or negatively from the top 5 tweets in twitter. it is up on heroku [try](https://assign1-usd-time.herokuapp.com/).
+* Give it a word and it will return if the people talk aabout it positively or negatively from the top 5 tweets in twitter. it is up on heroku [try](https://assign-tweet-analysis.herokuapp.com/).
 ---
